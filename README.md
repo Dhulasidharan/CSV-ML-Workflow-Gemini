@@ -239,7 +239,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com)
 
 Feel free to reach out for any questions or collaboration opportunities!
-
----
-
-Thank you for using
